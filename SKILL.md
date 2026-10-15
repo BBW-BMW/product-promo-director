@@ -45,7 +45,7 @@ description: 通过使用目录引导用户制作个人化产品宣传视频，�
 
 ### 2. 检索与拆解同类视频
 
-读 [reference-research.md](references/reference-research.md)。优先检索3–5个同类产品官方视频，再补充适合的跨类动效；用户已有参考时先解析该参考。
+读 [reference-research.md](references/reference-research.md) 和 [reference-navigation.md](references/reference-navigation.md)，按完整宣传片、UI动效、真实产品演示选择检索来源；使用其中8站导航、关键词、候选案例与记录卡。导航和待核验案例不等于已观看参考库。优先检索3–5个同类产品官方视频，再补充适合的跨类动效；用户已有参考时先解析该参考。
 
 提供可访问链接、重点时间段、证据状态、可取得的视觉预览和具体适配方式。实际观看或抽帧后再评价运动；只看到封面、文字或静帧时如实标记，不能声称验证了转场和节奏。
 

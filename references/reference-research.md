@@ -23,3 +23,7 @@
 ## 已有参考与多风格入口
 
 先查 [source-catalog.md](source-catalog.md) 的官方来源和证据状态，再按 [style-library.md](style-library.md) 选择方向。历史来源可作为入口，但实际采用前复核链接与版本。以 [storyboard-library.md](storyboard-library.md) 的原创模板适配产品，不能把模板时间当成外部影片时间码。
+
+## 来源导航与案例记录
+
+按 [reference-navigation.md](reference-navigation.md) 选择8站入口、英文关键词与首批候选案例，使用案例记录卡保存出处、实际画面、观看范围和项目适配。不保存搜索图片代理链接作为永久证据；核对配图与作品是否对应。
