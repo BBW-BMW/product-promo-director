@@ -1,13 +1,13 @@
 interface:
-  display_name: 产品宣传视频导演
-  short_description: 八种风格与48镜分镜模板，覆盖同类参考、脚本制作和逐镜验收
-  default_prompt: 使用 $product-promo-director，根据我的产品和素材推荐三种宣传片风格，展示分镜差异，再按指定范围推进制作。
-  icon_small: assets/icon.svg
-  icon_large: assets/icon.svg
+  display_name: "产品宣传视频导演"
+  short_description: "先用目录选择制作阶段，提供八种风格、参考检索、脚本分镜与成片制作"
+  default_prompt: "使用 $product-promo-director，先展示使用目录，引导我选择需要的制作阶段，再根据已有产品资料和素材开始生成。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
 policy:
   products:
-  - chatgpt
-  - codex
-  - api
-  - atlas
+    - "chatgpt"
+    - "codex"
+    - "api"
+    - "atlas"
   allow_implicit_invocation: true
