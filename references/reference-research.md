@@ -19,3 +19,7 @@
 |---|---|---|---|---|---|
 
 外部Video-shotcraft图库：https://vincentwei1021.github.io/video-shotcraft/library.html 。用前核验内容与具体卡片，不假设永远可访问或数量不变。本Skill本地配方不等同于该外部图库。
+
+## 已有参考与多风格入口
+
+先查 [source-catalog.md](source-catalog.md) 的官方来源和证据状态，再按 [style-library.md](style-library.md) 选择方向。历史来源可作为入口，但实际采用前复核链接与版本。以 [storyboard-library.md](storyboard-library.md) 的原创模板适配产品，不能把模板时间当成外部影片时间码。
