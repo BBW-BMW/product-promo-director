@@ -1,7 +1,7 @@
 interface:
   display_name: "产品宣传视频导演"
-  short_description: "先用目录选择制作阶段，提供八种风格、参考检索、脚本分镜与成片制作"
-  default_prompt: "使用 $product-promo-director，先展示使用目录，引导我选择需要的制作阶段，再根据已有产品资料和素材开始生成。"
+  short_description: "新视频先给3个创意方向供选，确认后再做分镜与成片"
+  default_prompt: "使用 $product-promo-director。如果我要为新产品制作宣传视频，请先分析产品并提供A/B/C三种不同创意方向让我选择；方向确认后才制作视频。"
   icon_small: "assets/icon.svg"
   icon_large: "assets/icon.svg"
 policy:
