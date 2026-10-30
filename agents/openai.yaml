@@ -1,7 +1,7 @@
 interface:
   display_name: "产品宣传视频导演"
-  short_description: "新视频先给3个创意方向供选，确认后再做分镜与成片"
-  default_prompt: "使用 $product-promo-director。如果我要为新产品制作宣传视频，请先分析产品并提供A/B/C三种不同创意方向让我选择；方向确认后才制作视频。"
+  short_description: "新宣传片先选3个方向之一及30/60/90/120秒时长，最长2分钟"
+  default_prompt: "使用 $product-promo-director。为新产品制作宣传视频时，先分析产品，给我A/B/C三个创意方向及30秒、60秒、1分30秒、2分钟四档时长供选择；确认方向和时长后再制作成片，最长不超过2分钟。"
   icon_small: "assets/icon.svg"
   icon_large: "assets/icon.svg"
 policy:
